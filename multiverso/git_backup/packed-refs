@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+d9905f820b3e455ca7fdf9cd2c0972083f2bbf55 refs/remotes/origin/kedeng/VS2017
+e45369e1d07277f656b0900beb2709d86679fa53 refs/remotes/origin/master
+116ad656877d89dbd64c6f101889b922d9dc0393 refs/remotes/origin/multiverso-initial
+f7fd7ed9ac98dc726790f8c97d15b075486da312 refs/remotes/origin/shuzhe/dev
+143187575d1cfa410100037b8aea2e767e0af637 refs/remotes/origin/vs2015
+f429e770bee03afcbb121534cc1fb05feaa9fda1 refs/tags/v0.1
+^2b5325b005afa108a6d7502f404b699377132fb3
+b8dd9b51b939986fb929e390d199537557ad29b9 refs/tags/v0.2
